@@ -12,7 +12,7 @@
     <name>Parent for JavaFX</name>
     <description>Parent for all JavaFX modules</description>
 
-    <groupId>com.alchemistscode.commons</groupId>
+    <groupId>com.alchemistscode.parent</groupId>
     <artifactId>parent-javaFx</artifactId>
     <version>1.0.0</version>
     <packaging>pom</packaging>
